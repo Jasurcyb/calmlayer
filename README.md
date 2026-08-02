@@ -167,6 +167,6 @@ Built with care for **Katy Youth Hacks 2026 — Tech for Humanity**.
 Set in *Atkinson Hyperlegible*, designed for readability.
 
 *Almost everyone will need a calmer web someday — often on the worst day
-they can remember. This is for that day.*
+they can remember. This is for that day..*
 
 </div>
