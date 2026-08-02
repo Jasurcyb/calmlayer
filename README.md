@@ -10,7 +10,7 @@
 
 *The web should adapt to people in crisis — not the other way around.*
 
-**[→ Try the live demo](https://<USERNAME>.github.io/calmlayer/)**
+**[→ Try the live demo](https://jasurcyb.github.io/calmlayer/)**
 
 </div>
 
@@ -123,7 +123,7 @@ walks its own talk:
 
 ## Try it
 
-**Live (recommended):** [https://<USERNAME>.github.io/calmlayer/](https://<USERNAME>.github.io/calmlayer/)
+**Live (recommended):** [https://jasurcyb.github.io/calmlayer/](https://jasurcyb.github.io/calmlayer/)
 Speech synthesis and all motion work best over `https://`.
 
 **Locally:** there is nothing to install or build.
