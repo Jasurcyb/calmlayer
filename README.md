@@ -146,19 +146,24 @@ python -m http.server 8000
 
 ## What's next
 
-- **A browser extension** that adds Calm Mode to *any* site a person is
-  struggling with — not just this demo.
-- **An open-source SDK** that public services, hospitals, and emergency
-  platforms can embed in a few lines.
-- **A design standard** for stress-aware interfaces: concrete rules for
-  language, spacing, motion, and pressure signals (like countdown timers)
-  that should never appear when someone is already under pressure.
+## Roadmap
 
-## A note on scope
+- [x] **v0.1 — Prototype.** Dual-mode interface layer, three test scenarios,
+  hackathon submission. 🏆 1st Place, Katy Youth Hacks 2026 (Tech for
+  Humanity), judged by engineers from Netflix, Microsoft, Oracle, and
+  Walmart Global Tech.
+- [ ] **v0.2 — Browser extension.** Calm Mode on *any* site a person is
+  struggling with: readability lift, pressure-signal removal (countdowns,
+  dark patterns), one-step focus, help on demand.
+- [ ] **v0.3 — Open-source SDK.** A drop-in layer for public services,
+  hospitals, and emergency platforms: themable design tokens, plain-language
+  packs, built-in WCAG checks.
+- [ ] **v1.0 — Stress-aware design standard.** Public guidelines for
+  language, spacing, motion, and pressure signals, with a self-assessment
+  checklist for product teams.
 
-CalmLayer is a supportive interface prototype. It is **not** a medical device
-and **not** an emergency service. In a real emergency, call local emergency
-numbers.
+Contributions, issues, and discussion are welcome — this project is meant
+to outlive the hackathon.
 
 ---
 
