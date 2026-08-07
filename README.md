@@ -8,6 +8,7 @@
 [![Live demo](https://img.shields.io/badge/Live_demo-github.io-E9A13B?style=for-the-badge)](https://<USERNAME>.github.io/calmlayer/)
 [![License](https://img.shields.io/badge/License-MIT-1A1A1A?style=for-the-badge)](LICENSE)
 
+[![1st Place](https://img.shields.io/badge/1st_Place-Katy_Youth_Hacks_2026-E9A13B?style=for-the-badge)](https://katy-youth-hacks-2026.devpost.com/)
 *The web should adapt to people in crisis — not the other way around.*
 
 **[→ Try the live demo](https://jasurcyb.github.io/calmlayer/)**
